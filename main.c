@@ -47,7 +47,7 @@ unsigned char animation[] = {0xFF,0x10,0x10,0x10,0xFF,0x00,0x0E,0x15,0x15,0x15,0
 
 int main()
 {
-		unsigned char page=0;
+    unsigned char page=0;
     SCK = 0;
     RCK = 0;
     while (1)
