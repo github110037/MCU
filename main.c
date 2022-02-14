@@ -1,6 +1,6 @@
 #include <REGX52.H>
 #include "outputfun.h"
-
+// version: 2/14
 sbit RCK = P3^5;
 sbit SCK = P3^6;
 sbit SER = P3^4;
